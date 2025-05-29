@@ -1,5 +1,6 @@
-# 💫 About Me:
-🔭 Computer Science Undergraduate Student at Bilkent University<br>
+# About Me:
+🔭 Computer Science student studying at Bilkent University.<br>
+    Korea University Exchange Student <br>
 
 
 ## 🌐 Socials:
